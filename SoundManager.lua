@@ -1,3 +1,0 @@
-SoundManager = {}
-
-SoundManager.new = function
