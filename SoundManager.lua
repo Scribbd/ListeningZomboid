@@ -1,0 +1,3 @@
+SoundManager = {}
+
+SoundManager.new = function
