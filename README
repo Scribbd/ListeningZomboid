@@ -1,0 +1,16 @@
+NOT TESTED, USE AT OWN RISK. 
+WILL PROBABLY NOT WORK AND CRASH HARD!
+
+A mod for Project Zomboid which will create a listening ring around the player.
+
+Installation:
+1. Press 'Zip', just below the repository description.
+2. Extract this archive inside the root dictionary of Project Zomboid.
+3. Start game
+4. ??
+5. Profit
+
+Usage:
+When in-game, hold 'L' to view listening circle.
+The size of the 'smudge' depends on the range of the sound and your distance to it.
+The transparency is affected by the volume.
