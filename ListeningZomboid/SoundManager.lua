@@ -1,3 +1,6 @@
+-- Actually a helper for IndicatorManager to reach out for the soundsystem in project
+-- zomboid.
+
 SoundManager = {}
 
 function SoundManager:new(ZomboidSounds)
@@ -8,6 +11,4 @@ end
 
 function SoundManager:findActiveSounds()
 	local activeList = {}
-
-
 end
