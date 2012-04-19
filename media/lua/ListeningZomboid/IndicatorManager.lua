@@ -9,6 +9,11 @@ function IndicatorManager:new()
 	return object
 end
 
+--function to show indictor on the UI
+function IndicatorManager:showIndicator()
+
+end
+
 --function to add an indicator to the list
 function IndicatorManager:addIndicator(indicator)
 	table.insert(self.indicatorList, indicator)

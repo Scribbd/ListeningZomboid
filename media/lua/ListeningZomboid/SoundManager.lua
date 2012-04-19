@@ -10,5 +10,5 @@ function SoundManager:new(ZomboidSounds)
 end
 
 function SoundManager:findActiveSounds()
-	local activeList = {}
+	local activeList =
 end
